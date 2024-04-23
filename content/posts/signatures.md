@@ -61,6 +61,6 @@ draft: false
 - Dusk Banks <me@bb010g.com> ([@bb010g](https://github.com/bb010g))
 - Jake Hamilton ([@jakehamilton](https://github.com/jakehamilton))
 - Tulip ([@tulilirockz](https://github.com/tulilirockz))
-<!-- Insert your signature above here, using the format above.>
+- Austreelis <dev@austreelis.net> ([@austreelis](https://github.com/austreelis))
 
 ... and at least a dozen others who concur with this document, but are unable to sign for safety reasons.
